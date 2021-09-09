@@ -1,0 +1,169 @@
+
+#title {
+  background-image: url("background1.jpg");
+  padding: 3% 15% 20% 15%;
+}
+
+h1 {
+  font-family: "Mallanna";
+  font-weight: 800;
+}
+
+p {
+  font-family: "Sawarabi Gothic";
+}
+
+h3 {
+  font-family: "Josefin Sans";
+  padding-bottom: 10px;
+  color: black;
+}
+.actwidth {
+  margin: 50px 40px;
+  width: 70%;
+}
+
+h4 {
+  color: #fff;
+}
+.textalignright {
+  text-align: right;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.textalignleft {
+  text-align: left;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.sidePadding {
+  padding: 4% 10%
+}
+.imageicon {
+  width: 60%;
+}
+.blueBack {
+  background-color: #41729F;
+}
+
+.redBack {
+  background-color: #6f1d1b;
+}
+
+.goldBack {
+  background-color: #41729F;
+}
+
+.webTitle {
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+.brandfont {
+font-family: "Bangers";
+  font-size: 3rem;
+}
+.centerAlign {
+  text-align: center;
+}
+.faspace {
+  margin: 20px 10px;
+}
+
+.logoImage {
+  width: 60%;
+  margin-left: 110px;
+  opacity: 80%;
+}
+.nospace {
+  line-height: 1.5;
+}
+
+.iconColorwhite {
+  color: #B6B22A;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.iconColorwhite:hover {
+  color: #8236CB;
+}
+.iconColor {
+  color: white;
+  margin-top: 10px;
+}
+.iconColor:hover {
+  color: grey;
+  margin-top: 10px;
+}
+
+.iconColorx {
+  color: grey;
+  margin-top: 10px;
+}
+
+.iconColorx:hover {
+  color: #474746;
+}
+
+.pricingc {
+  padding: 40px;
+}
+@media (min-width: 990px) {
+  .phonesize {
+    display: none;
+  }
+  .pcsize {
+    display: inline;
+  }
+}
+
+@media (max-width: 990px) {
+.phonesize {
+  display:inline;
+}
+.pcsize {
+  display: none;
+}
+body {
+  text-align: center;
+}
+
+.imagehide {
+  display: none;
+}
+
+h1 {
+  font-size: 5rem;
+}
+p {
+  font-size: 2.75rem;
+}
+.nav-item {
+  font-size: 1.5rem;
+  font-family: "Josefin Sans";
+}
+
+#title {
+  background-image: url("background.jpg");
+}
+.imagehide2 {
+  margin: 0;
+  margin-top: 70px;
+}
+h3 {
+  font-size: 2.9rem;
+}
+
+.textalignleft, .textalignright {
+  text-align: center;
+  padding: 6% 0;
+}
+
+.btn {
+  width: 60%;
+  height: 60px;
+  font-size: 2rem;
+}
+
+}
